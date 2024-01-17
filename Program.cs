@@ -10,6 +10,11 @@ namespace Inheritance
     {
         static void Main(string[] args)
         {
+            Enemy enemy = new Enemy();  
+            Player player = new Player();
+
+
+
         }
     }
 }
